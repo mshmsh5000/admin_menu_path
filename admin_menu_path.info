@@ -1,0 +1,10 @@
+name = Administration menu paths
+description = Provides path-based disabling of admin_menu.
+package = Administration
+
+; Purposively added for feature development.
+version = 6.x-1.x-dev
+core = 6.x
+
+dependencies[] = menu
+dependencies[] = admin_menu
